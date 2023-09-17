@@ -1,9 +1,9 @@
 # How to Run the App
 
-Follow these steps to run the NovoRender App:
+Follow these steps to run the React App:
 
 1. **Clone the Repository:**
-   - First, clone the NovoRender repository to your local machine.
+   - First, clone the novorender-project repository to your local machine.
    - Open a terminal and navigate to the root folder where you want to store the project.
    - Run the following command to clone the repository:
 
@@ -12,7 +12,7 @@ Follow these steps to run the NovoRender App:
      ```
 
 2. **Navigate to the Project Folder:**
-   - Change your working directory to the NovoRender project folder:
+   - Change your working directory to the novorender-project project folder:
 
      ```bash
      cd novorender-project
